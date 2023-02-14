@@ -1,6 +1,6 @@
 ### Hi there 👋 I’m _**Parthdhwajendra Mishra**_.
-- 🔭 I’m currently working on Employee Attendance Management System Using QR Code
-- 🌱 I’m currently learning DAA
+- 🔭 I’m currently working on MERN Stack.
+
 
 
 
